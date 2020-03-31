@@ -1,2 +1,2 @@
 print('Hola mundo')
-print('un error de sintaxis)
+print('un error de sintaxis')
